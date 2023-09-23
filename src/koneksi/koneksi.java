@@ -6,7 +6,7 @@ package koneksi;
 
 /**
  *
- * @author Muhammad Ariel Naafi
+ * @author Muhammad Ariel Naafi & Riski Hidayatullah
  */
 import java.sql.Connection;
 import java.sql.DriverManager;
